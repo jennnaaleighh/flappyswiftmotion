@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9700BFD8-6B1F-47D6-833E-1038F010892E</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>054AFBEE-CCFE-4151-ACAE-325E7B72BB50</key>
+		<string>ssh://github.com/kirualex/SprityBird.git</string>
+		<key>9482913EA07E4E1899871ED0F96505A180F9B253</key>
+		<string>github.com:jennnaaleighh/flappyswiftmotion.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>054AFBEE-CCFE-4151-ACAE-325E7B72BB50</key>
+		<string>SprityBird</string>
+		<key>9482913EA07E4E1899871ED0F96505A180F9B253</key>
+		<string>flappyswiftmotion</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jennnaaleighh/flappyswiftmotion.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9482913EA07E4E1899871ED0F96505A180F9B253</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9482913EA07E4E1899871ED0F96505A180F9B253</string>
+			<key>IDESourceControlWCCName</key>
+			<string>flappyswiftmotion</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>054AFBEE-CCFE-4151-ACAE-325E7B72BB50</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SprityBird</string>
+		</dict>
+	</array>
+</dict>
+</plist>
